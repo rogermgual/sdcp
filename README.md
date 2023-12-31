@@ -1,2 +1,2 @@
 # sdcp
-Solving Daily Coding Problem
+Daily exercises from https://www.dailycodingproblem.com/
